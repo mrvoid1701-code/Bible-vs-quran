@@ -3,14 +3,16 @@
 A comparative religious-studies project that examines the **Bible** and the
 **Qur'an** side by side, written as a **referee, not an advocate**.
 
-It asks two things and only these two:
+It is organized in three parts:
 
-1. **Historical / textual** — How reliably was each scripture transmitted,
-   and how strong are the mutual *corruption* (*tahrif*) accusations,
-   tested by the **same standard in both directions**?
-2. **Theological / logical** — How do **strict monotheism** (*tawhid* / the
-   *Shema*) and the **Trinity** compare in textual support and internal
-   logical coherence?
+1. **Part I — Historical / textual & logical core:** how reliably was each
+   scripture transmitted, how strong are the mutual *corruption* (*tahrif*)
+   accusations under the **same standard both ways**, and how do **strict
+   monotheism** (*tawhid* / the *Shema*) and the **Trinity** compare.
+2. **Part II — The nature of God:** the doctrine of God in each text,
+   from text and logic, with verse evidence.
+3. **Part III — Chronology:** the shared storyline from creation to the
+   end, showing one continuous dividing seam at every stage.
 
 It does **not** decide whose religion is true — that is not a question
 historical evidence or logic can settle, and saying so is part of being an
@@ -42,7 +44,15 @@ honest arbiter.
 | 06 | [Debates & scholars — who argues what](docs/06-debates-and-scholars.md) |
 | 07 | [Arbiter verdict — core textual & logical inquiry](docs/07-arbiter-verdict.md) |
 | 09 | [The nature of God in both religions](docs/09-nature-of-god.md) |
-| 10+ | Chronology — creation → end *(in progress)* |
+| 10 | [Chronology — Creation](docs/10-chronology-creation.md) |
+| 11 | [Chronology — The Fall & origin of sin](docs/11-chronology-fall.md) |
+| 12 | [Chronology — The Flood & Noah](docs/12-chronology-flood.md) |
+| 13 | [Chronology — Abraham](docs/13-chronology-abraham.md) |
+| 14 | [Chronology — Moses & the Exodus](docs/14-chronology-moses.md) |
+| 15 | [Chronology — David, Solomon & prophethood](docs/15-chronology-david-prophets.md) |
+| 16 | [Chronology — Jesus: birth, mission, crucifixion](docs/16-chronology-jesus.md) |
+| 17 | [Chronology — Muhammad & the seal of prophethood](docs/17-chronology-muhammad.md) |
+| 18 | [Chronology — Eschatology: the end](docs/18-chronology-eschatology.md) |
 | 99 | [Sources & further reading](docs/99-sources.md) |
 
 ### As a website

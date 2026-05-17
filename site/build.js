@@ -22,6 +22,15 @@ const TITLES = {
   '06-debates-and-scholars': 'Debates & Scholars',
   '07-arbiter-verdict': 'Verdict — Core',
   '09-nature-of-god': 'The Nature of God',
+  '10-chronology-creation': 'Chronology · Creation',
+  '11-chronology-fall': 'Chronology · The Fall',
+  '12-chronology-flood': 'Chronology · The Flood',
+  '13-chronology-abraham': 'Chronology · Abraham',
+  '14-chronology-moses': 'Chronology · Moses',
+  '15-chronology-david-prophets': 'Chronology · David & Prophets',
+  '16-chronology-jesus': 'Chronology · Jesus',
+  '17-chronology-muhammad': 'Chronology · Muhammad',
+  '18-chronology-eschatology': 'Chronology · The End',
   '99-sources': 'Sources',
 };
 
