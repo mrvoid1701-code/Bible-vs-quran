@@ -19,6 +19,28 @@ side: Muhammad as the final prophet, allegedly **foretold in the Bible**.
 3. **Deut 33:2 (Paran); Isa 29:12 ("he is not learned"); Song 5:16
    (*maḥamaddim*); Hag 2:7** — assorted prooftexts.
 
+## The strongest Muslim case — stated fully
+
+Fairness (and symmetry with the Abraham chapter) requires the **best**
+version, not a strawman:
+
+- **Deut 18:18 "like Moses":** the apologetic (Deedat and others) argues
+  Jesus is *unlike* Moses (virgin-born, divine claims, no new legal code,
+  no statecraft, did not die of old age) while **Muhammad is more "like
+  Moses"** (ordinary birth and death, a law, leadership, warfare). On this
+  reading "**from among their brethren**" points to the **Ishmaelite**
+  cousins of Israel.
+- **The Paraclete:** Jesus promises "**another** Paraclete" (John 14:16),
+  one who "will **not speak on his own** but what he **hears**" (John
+  16:13) — argued to resemble a **man receiving revelation** rather than
+  an indwelling Spirit; with the **periklytos ≈ Aḥmad** word-play layered
+  on top.
+- **A real fairness point:** the **historicity of Muhammad himself** is
+  **not** in doubt — mainstream historians (e.g. Sean Anthony) treat him
+  as a securely attested 7th-c. figure. The dispute is **only** the
+  biblical-prophecy claim, **not** his existence; popular Christian
+  polemic that blurs the two is itself a methodological error.
+
 ## The Christian / academic response
 
 - **Deut 18 "brethren":** in Deuteronomy's own usage "brethren" =
@@ -33,7 +55,31 @@ side: Muhammad as the final prophet, allegedly **foretold in the Bible**.
   standard ([cap. 02](02-bible-textual-transmission.md),
   [cap. 06](06-debates-and-scholars.md)), **a reading with zero
   manuscript attestation cannot be asserted as the text**.
-- The remaining prooftexts rest on **isolated words read out of context**.
+- **"Like Moses":** Acts 3:22–23 (and the early church) **explicitly**
+  applies the Deut 18 prophet to **Jesus**; "like Moses" can be matched or
+  mismatched **selectively** to anyone, so the criterion is weak both
+  ways; "brethren" in Deuteronomy's own idiom = **Israelites**.
+- **"Another Paraclete":** John 14:26 **names it the Holy Spirit**, 14:17
+  says it would **indwell** the disciples, and it is given at **Pentecost
+  (Acts 2)** — soon, internal, non-audible, non-Arabian. The
+  *periklytos* emendation has **zero manuscript support**.
+- **Song 5:16 (*maḥamaddim*)** is a Hebrew **intensive plural** ("wholly
+  desirable"), not a personal name; **Isa 29:12** is a judgment metaphor
+  on Judah; **Hag 2:7 / Deut 33:2** are read messianically by Christians
+  themselves. They rest on **isolated words out of context**.
+
+## Reverse symmetry — the method cuts both ways
+
+Honesty requires noting: the **Christian** use of Old-Testament messianic
+prophecy is *also* largely **retrospective and typological** (flagged
+already for Gen 3:15 and "Let Us" in [cap. 10](10-chronology-creation.md)/
+[cap. 11](11-chronology-fall.md)). So "you read your prophet back into our
+text" is a charge each side can level. The **decisive asymmetry** is
+narrow but real: the Muslim Paraclete claim additionally requires a
+**textual emendation with no manuscript witness** — which fails the
+**same evenly-applied rule** that voided the Christian *Comma Johanneum*.
+The Deut 18 reading, by contrast, is *contextual*, not text-critical, and
+is therefore only **weak**, not **baseless**.
 
 ## Arbiter verdict — Muhammad foretold?
 
@@ -52,13 +98,19 @@ Spirit, and the *periklytos* theory is text-critically baseless.
 - *Finality / "seal":* a **theological axiom**, not a historical datum;
   it has **no pre-Islamic documentary footprint**.
 
-**Judge.** On the **textual/historical question** — *do the biblical texts
-foretell Muhammad?* — the evidence is **weak to negative**, decisively so
-for the Paraclete claim by the dossier's **own evenly-applied manuscript
-rule**. On the **theological claim** of finality, the arbiter does **not**
-rule true or false (out of remit) but **does** record that it rests on
-**doctrine, not on documentary evidence**. Symmetry holds: the same
-scalpel that cut the Christian *Comma Johanneum* cuts the Muslim
-*periklytos* reading.
+**Judge.** Separate two things popular polemic conflates. (1) **Did
+Muhammad exist / lead a 7th-c. movement?** — **yes**, not in dispute, and
+the dossier credits this against lazy denialism. (2) **Do the biblical
+texts foretell him?** — the evidence is **weak to negative**: the Deut 18
+reading is **contextually weak** (the NT itself assigns it to Jesus) but
+*not* text-critically baseless; the **Paraclete-as-Aḥmad** reading **is
+baseless** by the dossier's **own evenly-applied manuscript rule** — the
+very scalpel that cut the Christian *Comma Johanneum*. The remaining
+prooftexts are **out-of-context single words**. On the **theological
+claim** of finality ("seal"), the arbiter does **not** rule true/false
+(out of remit) but records it rests on **doctrine, not documentary
+evidence**. And the **reverse-symmetry** caveat stands: retrospective
+prophecy-reading is a habit of **both** traditions; the asymmetry here is
+specifically the **needed-but-unattested textual emendation**.
 
 Continue to [Eschatology — The End](18-chronology-eschatology.md).
