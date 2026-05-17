@@ -33,6 +33,7 @@ const TITLES = {
   '18-chronology-eschatology': 'Chronology · The End',
   '19-was-jesus-a-muslim': 'Was Jesus a Jew/Muslim?',
   '20-does-god-deceive': 'Does God Deceive?',
+  '21-muhammad-vs-jesus': 'Muhammad vs. Jesus',
   '98-scripture-index': 'Scripture Index',
   '99-sources': 'Sources',
 };

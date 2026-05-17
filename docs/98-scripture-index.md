@@ -90,10 +90,15 @@ in prose/manuscript discussion rather than verse lists.
 
 **20 — Does God deceive?**
 - Qurʾan: 2:7, 2:15, 2:155, 3:54, 4:142, 6:110, 7:182–183, 8:30, 14:4,
-  61:5
+  61:5; *al-gharūr* (Satan): 7:22, 31:33, 35:5, 57:14; 4:120, 17:64
 - Bible: 1 Kgs 22:20–23; Ezek 14:9; 2 Thess 2:10–11; Jer 20:7; Exod
   4:21; 8:15; Isa 6:9–10; Mark 4:11–12; John 12:40; Rom 1:21–28; 9:17–21;
-  11:8; 11:32; Deut 8:2; 1 Pet 1:7
+  11:8; 11:32; Deut 8:2; 1 Pet 1:7; Satan as deceiver: Rev 12:9;
+  John 8:44
+
+**21 — Muhammad vs. Jesus (and the two systems)**
+- Qurʾan: 2:256, 9:5, 9:29, 33:40
+- Bible: Mark 10:45; 12:29–30; John 18:36; Deut 20:16–17; 1 Sam 15:3
 
 ---
 
