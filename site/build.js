@@ -31,6 +31,7 @@ const TITLES = {
   '16-chronology-jesus': 'Chronology · Jesus',
   '17-chronology-muhammad': 'Chronology · Muhammad',
   '18-chronology-eschatology': 'Chronology · The End',
+  '19-was-jesus-a-muslim': 'Was Jesus a Jew/Muslim?',
   '99-sources': 'Sources',
 };
 

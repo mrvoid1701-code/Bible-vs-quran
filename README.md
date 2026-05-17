@@ -53,6 +53,7 @@ honest arbiter.
 | 16 | [Chronology — Jesus: birth, mission, crucifixion](docs/16-chronology-jesus.md) |
 | 17 | [Chronology — Muhammad & the seal of prophethood](docs/17-chronology-muhammad.md) |
 | 18 | [Chronology — Eschatology: the end](docs/18-chronology-eschatology.md) |
+| 19 | [Focused question — was Jesus a Jew, a Christian, or a Muslim?](docs/19-was-jesus-a-muslim.md) |
 | 99 | [Sources & further reading](docs/99-sources.md) |
 
 ### As a website
