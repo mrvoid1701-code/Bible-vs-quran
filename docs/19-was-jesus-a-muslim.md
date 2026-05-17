@@ -116,22 +116,39 @@ was a Torah-observant Jew, and he was crucified
   the Qurʾan's specific additions (foretold Aḥmad; no crucifixion) are the
   **weakest historically**. *But* his exact **self-claims** are contested
   *within* scholarship — not handed to either side.
-- *Symmetry:* "Jesus was a **Christian**" is **also historically
-  imprecise** — Christianity as a distinct religion emerged after him. The
-  only precise historical predicate is **"Jesus was a Jew."**
+- *The two labels are NOT symmetric.* "Christian" and "Muslim" are
+  imprecise about Jesus in **different ways and to very different
+  degrees**:
+  - "Jesus was a **Muslim**" attributes to him a **separate religion
+    codified ~600 years later**, of whose defining content (Qurʾan,
+    shahāda, Meccan qibla, ḥajj) he knew nothing — **anachronistic in
+    substance**.
+  - "Jesus was a **Christian**" is only **terminologically** loose: the
+    word postdates him and he is the **founder/object**, not an
+    *adherent*. But Christianity is **constitutively about him** and
+    emerged **seamlessly and immediately from his own movement and his
+    own followers** — not a later, independent system retrofitting him.
+  - So the precise historical predicate remains **"Jesus was a Jew,"** but
+    the residual imprecision in "Christian" is *founder-vs-member
+    terminology*, whereas the imprecision in "Muslim" is a **600-year
+    anachronistic religion-transfer**. These are not the same error.
 
 **Judge.** On the **historical** question the evidence **leans clearly and
-is nameable**: Jesus **practised Judaism**; "Muslim" in the religion sense
-and "Christian" are **both historically imprecise**, with "Muslim" the
-more anachronistic of the two (a 7th-c. system vs. a movement that at
-least grew directly out of his followers). The prayer-posture argument
-**does not survive**, and chronologically points the other way. On the
-**generic-submission** sense and on **Jesus's precise self-understanding**,
-the arbiter **declines** — the first is an unfalsifiable definition, the
-second is genuinely contested *within* neutral scholarship (Methodology
-§5). Net: a **clear, evidence-warranted lean** that the historically
-accurate answer is **"a Jew,"** with the theological "submitter" claim
-left exactly where definitions belong — outside the reach of evidence.
+is nameable**: Jesus **practised Judaism**. The labels are **not
+equivalent errors**: "Christian" is *terminologically* anachronistic only
+in the trivial founder-vs-member sense (the movement is **about him** and
+**continuous with his own**); "Muslim," in the religion sense, transfers
+onto him a **separate system codified six centuries later** — a
+substantive anachronism, and the **more serious** of the two by a wide
+margin. The prayer-posture argument **does not survive**, and
+chronologically points the other way. On the **generic-submission** sense
+and on **Jesus's precise self-understanding**, the arbiter **declines** —
+the first is an unfalsifiable definition, the second is genuinely
+contested *within* neutral scholarship (Methodology §5). Net: a **clear,
+evidence-warranted lean** that the historically accurate answer is **"a
+Jew"**; that this does not vindicate Christian *theology* (his divine
+self-claims stay contested) is itself the honest limit — but the **"Jesus
+was a Muslim"** claim, in the only sense that is historical, **fails**.
 
 Return to [Jesus — Birth, Mission, Crucifixion](16-chronology-jesus.md) ·
 [Nature of God](09-nature-of-god.md) · [Sources](99-sources.md).
