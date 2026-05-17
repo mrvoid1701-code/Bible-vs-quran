@@ -88,6 +88,10 @@ that the Trinity is *irrational* **fails**; the charge that it is *not
 plainly biblical* **succeeds**. Beyond that line, the questions stop being
 historical — and so does the arbiter's authority.
 
+This concludes the **core textual & logical inquiry (Part I)**. The study
+continues with **Part II — [The Nature of God](09-nature-of-god.md)** and
+**Part III — Chronology** (creation → end).
+
 Return to the [Introduction](00-introduction.md) ·
 [Methodology](01-methodology.md) ·
-[Sources & Further Reading](08-sources.md).
+[Sources & Further Reading](99-sources.md).

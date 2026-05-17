@@ -20,8 +20,9 @@ const TITLES = {
   '04-corruption-claims-tahrif': 'Corruption (Tahrif)',
   '05-monotheism-vs-trinity': 'Monotheism vs. Trinity',
   '06-debates-and-scholars': 'Debates & Scholars',
-  '07-arbiter-verdict': 'Final Verdict',
-  '08-sources': 'Sources',
+  '07-arbiter-verdict': 'Verdict — Core',
+  '09-nature-of-god': 'The Nature of God',
+  '99-sources': 'Sources',
 };
 
 function navHtml(files, current) {

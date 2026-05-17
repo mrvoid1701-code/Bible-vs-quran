@@ -40,8 +40,10 @@ honest arbiter.
 | 04 | [Corruption claims (*tahrif*), both directions](docs/04-corruption-claims-tahrif.md) |
 | 05 | [Monotheism vs. the Trinity](docs/05-monotheism-vs-trinity.md) |
 | 06 | [Debates & scholars — who argues what](docs/06-debates-and-scholars.md) |
-| 07 | [Final arbiter verdict](docs/07-arbiter-verdict.md) |
-| 08 | [Sources & further reading](docs/08-sources.md) |
+| 07 | [Arbiter verdict — core textual & logical inquiry](docs/07-arbiter-verdict.md) |
+| 09 | [The nature of God in both religions](docs/09-nature-of-god.md) |
+| 10+ | Chronology — creation → end *(in progress)* |
+| 99 | [Sources & further reading](docs/99-sources.md) |
 
 ### As a website
 
