@@ -79,6 +79,69 @@ each tradition the **same way**:
 The determinism-vs-freedom problem is **shared**, with mirror-image
 schools — it is **not** a defect peculiar to Islam.
 
+## 5. When unsure, read the *whole* passage — context, not the proof-text
+
+The polemic survives **only** by quoting half a verse. The dossier's rule
+(Methodology §4: equivocation; read in context) says: when meaning is
+disputed, **take the entire pericope and let it define the term**. Do that
+on both sides and the result is clean.
+
+### Qurʾan, in context
+
+- **Q 3:54** is **not** a free-floating "Allah deceives" line. Read Sūra 3
+  (Āl ʿImrān) **vv. 45–58**: it is the **Jesus narrative** — the
+  annunciation to Mary, Jesus' mission, the disciples saying "we are
+  *muslimūn*" (3:52), then **the unbelievers plot to kill Jesus** (3:54a),
+  and "Allah plotted" (3:54b) is immediately explained by **3:55**: "I
+  will **take you and raise you to Me and purify you** from those who
+  disbelieved." In context, *makr Allāh* = **God's superior counter-move
+  that frustrates a murder plot**. Not lying to the innocent — **rescuing
+  the victim and outwitting killers**.
+- **Q 8:30** — context is the **plot to assassinate, imprison, or exile
+  Muhammad**: "they plot and Allah plots" = God thwarts the assassination.
+  Same structure: counter-plot **against plotters**.
+- **Q 4:142 / 2:9–16** — the subject is explicitly the **hypocrites** who
+  fake prayer "to be seen": "they deceive Allah and He deceives them" =
+  their own duplicity **recoils on them** (eschatological reversal, cf.
+  57:13). The object is **deceivers**, never the sincere.
+- **Sealing — Q 2:6–7; 61:5** — read the pair: 2:6 establishes "those who
+  **have [settled in] disbelief**", *then* 2:7 "Allah has sealed"; 61:5 is
+  explicit on order — "**when they deviated**, Allah made their hearts
+  deviate." Deviation is **first and self-chosen**; the sealing is the
+  **judicial confirmation**.
+
+### Bible, in context (same test)
+
+- **1 Kgs 22 (read 22:1–38, not just v.23):** Ahab is a **persistently
+  wicked king already under judgment**; the prophet **Micaiah openly tells
+  him the truth and reveals the lying-spirit vision *in advance***. So
+  Ahab is **warned, not actually tricked** — God uses Ahab's own
+  preference for 400 flattering prophets to execute a **deserved,
+  announced** judgment. Context = judicial + self-chosen + disclosed.
+- **Ezek 14 (read 14:1–11):** elders come to "inquire" of God **while
+  clinging to idols in their hearts**; God answers such a **hypocritical
+  inquirer** "according to his idols" — and the stated **purpose** (14:11)
+  is corrective: "**that the house of Israel may go no more astray.**" The
+  "deceived prophet" is the insincere one; aim = justice/restoration.
+- **2 Thess 2 (read 2:9–12):** the strong delusion falls on "those who are
+  perishing **because they refused to love the truth**… **that** they may
+  be condemned who **had pleasure in unrighteousness**." Refusal of truth
+  is **stated first**; delusion is the **consequence** — identical logic
+  to Q 61:5. (So is Rom 1: "they exchanged the truth… **therefore** God
+  gave them up", three times.)
+
+### What the whole text yields
+
+Read fully, **every** such passage on **both** sides shares four traits:
+1. the subjects' **own willful evil/rejection comes first**;
+2. the divine response is **judicial recompense**, not gratuitous;
+3. it is often **announced/warned** (so not true "tricking");
+4. it is **never** aimed at the sincere seeker.
+
+The "deceiver" charge exists **only** at proof-text resolution; it
+**evaporates at chapter resolution** — equally for the Qurʾan and the
+Bible.
+
 ## Arbiter verdict — does God deceive, and why?
 
 **Present.** Polemic: "Allah is *the Deceiver*, so Islam's God is
@@ -87,6 +150,12 @@ counter-justice**, and the Bible says the **same thing, sometimes more
 bluntly**.
 
 **Weigh.**
+- *Context dissolves it (the decisive point).* At **chapter resolution**
+  (§5) the term means **judicial counter-action against prior plotters/
+  rejecters**, on **both** sides — Q 3:54 is the **rescue of Jesus from a
+  murder plot**; 1 Kgs 22 is an **announced** judgment on a wicked king.
+  The charge lives **only** at half-verse resolution. This is the
+  methodological core: *when unsure, read the whole passage.*
 - *Asymmetric slogan — fails.* Ezek 14:9 ("**I the LORD have deceived that
   prophet**") and 2 Thess 2:11 are **as strong or stronger** than Q 3:54.
   By the symmetry rule (Methodology §3) an argument that, applied evenly,
