@@ -142,6 +142,55 @@ The "deceiver" charge exists **only** at proof-text resolution; it
 **evaporates at chapter resolution** — equally for the Qurʾan and the
 Bible.
 
+## 6. The sharper objection: "the Bible's deceiver is **Satan**; the Qur'an's is **God**"
+
+This is the strongest form of the charge and must be met head-on, not the
+*makr*-as-counter-plot point above. Stated fairly: in the Bible the
+archetypal **deceiver is Satan** ("the **deceiver** of the whole world",
+Rev 12:9; "a liar and the father of lies", John 8:44), whereas the Qurʾan
+applies "**best of *mākirīn***" to **God** (Q 3:54). The asymmetry is real
+**at the surface**. It dissolves on a **like-for-like** test:
+
+**(a) The Qur'an uses two different words — and gives the *deceiver* word
+to Satan, exactly as the Bible does.**
+- ***makr*** (مكر) = a covert **stratagem**, morally **neutral** in
+  classical Arabic (good or bad by its object). Of God it is the **just
+  counter-stratagem against plotters** (Q 3:54; 8:30; 7:99). It is **not**
+  among the **99 Names** — God is **never titled "al-Mākir"**; the word
+  occurs only verbally, only against schemers.
+- ***gharūr / ghurūr*** (غرور) = **beguiling deception**. The Qurʾan calls
+  **Satan "al-Gharūr — the Deceiver"**: "let not **the Deceiver** deceive
+  you about God" (Q 31:33; 35:5; 57:14); "Satan **deceived** them"
+  (Q 7:22); "Satan promises them nothing but **delusion**" (Q 4:120;
+  17:64).
+- So the Qurʾan makes the **same lexical split as the Bible**: the
+  *deceiver* title goes to **Satan**; the word used of God is the
+  *counter-stratagem* word.
+
+**(b) The Bible is not clean of "God deceives" either.** Pairing "Bible
+Satan" with "Qurʾan God" is **unlike-for-unlike**. Compare properly:
+
+| | Bible | Qurʾan |
+|---|---|---|
+| Satan = the Deceiver | Rev 12:9; John 8:44 | *al-Gharūr*, Q 35:5; 7:22 |
+| God deals in delusion **judicially** | "**I the LORD have deceived that prophet**" (Ezek 14:9); "**God sends a strong delusion**" (2 Thess 2:11); 1 Kgs 22:23 | *makr* against plotters, Q 3:54 |
+
+On a like-for-like reading the two are **the same**, and the Bible's "**I
+the LORD have deceived that prophet**" is arguably the **more direct**
+divine self-statement.
+
+**(c) The one true residue is rhetorical register, not doctrine.** The
+genuine difference: the Qurʾan willingly uses the **same verb** for God
+and the evildoers as a deliberate **matching figure** (*mushākala /
+muqābala* — naming the requital with the word of the crime, "measure for
+measure"); classical exegetes (Ṭabarī, Rāzī) say God's *makr* is **called
+*makr* only by correspondence**. The Bible instead phrases it narratively
+("the LORD **sent/put** a lying spirit / a strong delusion") and does
+**not** crown God with a deceiver-**superlative**. Same underlying claim
+(God judicially deludes the wicked; Satan is the archetypal deceiver) —
+different **style**. That is a translational/stylistic matter, **not** a
+difference in the doctrine of who God is.
+
 ## Arbiter verdict — does God deceive, and why?
 
 **Present.** Polemic: "Allah is *the Deceiver*, so Islam's God is
@@ -160,6 +209,12 @@ bluntly**.
   prophet**") and 2 Thess 2:11 are **as strong or stronger** than Q 3:54.
   By the symmetry rule (Methodology §3) an argument that, applied evenly,
   wounds one's own scripture **is not usable**.
+- *The "deceiver = Satan vs. God" objection (§6) — answered.* The Qurʾan
+  reserves the *deceiver* word (*al-gharūr*) for **Satan** exactly as the
+  Bible does, and the Bible has **God** "deceive / send delusion"
+  (Ezek 14:9; 2 Thess 2:11) exactly as the Qurʾan has *makr*. Like-for-
+  like, **identical**; the only residue is **rhetorical register**
+  (*mushākala*), not doctrine.
 - *The "why" converges.* Both give the **same justification set**:
   retributive justice, test, just abandonment, sovereign wisdom, ultimate
   mercy — and both deny gratuitous deception of the innocent.
